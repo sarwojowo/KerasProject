@@ -11,4 +11,4 @@ All architectures are compatible with both TensorFlow and Theano, and upon insta
 
 Pre-trained weights can be automatically loaded upon instantiation (`weights='imagenet'` argument in model constructor for all image models, `weights='msd'` for the music tagging model). Weights are automatically downloaded if necessary, and cached locally in `~/.keras/models/`.
 
-Please follow https://github.com/fchollet/keras for original project
+Please follow https://github.com/fchollet/keras for original project  or Contact me at sarwo.jowo@gmail.com
